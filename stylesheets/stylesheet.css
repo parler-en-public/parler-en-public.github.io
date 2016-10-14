@@ -111,6 +111,7 @@ a {
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
+  line-height: 1.15;
   font-weight: normal;
   color: #159957; }
 .main-content p {
