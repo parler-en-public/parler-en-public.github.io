@@ -74,6 +74,14 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
+  
+.project-name a:link,
+.project-name a:visited {
+  color: inherit; }
+  
+.project-name a:focus,
+.project-name a:hover {
+  text-decoration: underline; }
 
 @media screen and (min-width: 64em) {
   .project-name {
